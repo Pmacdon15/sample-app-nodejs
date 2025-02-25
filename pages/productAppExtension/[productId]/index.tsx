@@ -18,7 +18,7 @@ const ProductAppExtension = () => {
     return (
         <>
             <Panel header="Basic Information" marginBottom="small">
-                <H4>Product name</H4>
+                <H4>Product name HelloWorld </H4>
                 <Text>{name}</Text>
                 <H4>Product type</H4>
                 <Text>{typeCapitalized}</Text>

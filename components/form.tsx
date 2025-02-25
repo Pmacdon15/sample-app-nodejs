@@ -56,7 +56,7 @@ const Form = ({ formData, onCancel, onSubmit }: FormProps) => {
                         label="Product name"
                         name="name"
                         required
-                        value={form.name}
+                        value={"HelloWorld"}
                         onChange={handleChange}
                     />
                 </FormGroup>
